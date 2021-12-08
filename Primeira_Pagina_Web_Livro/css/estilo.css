@@ -1,0 +1,114 @@
+body {
+    background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+}
+
+#livro {
+    font-family: Arial;
+    text-align: center;
+    margin: 10px auto;
+}
+
+img {
+    width: 190px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Tahoma;
+}
+
+#livro p {
+    line-height: 28px;
+    width: 930px;
+    margin: 0px auto;
+}
+
+#livro a {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #49b970;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+
+#livro p {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 200px;
+}
+
+#história {
+    border-top: 2px solid #d5d5d5;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+#história p {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 170px;
+}
+
+#história p span {
+    font-weight: bold;
+    color: #333;
+}
+
+#autor {
+    border-top: 2px solid #d5d5d5;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 10px;    
+    margin-top: 40px;
+}
+
+#autor p {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 170px;
+}
+
+#marketing {
+    border-top: 2px solid #d5d5d5;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+#marketing p {
+    text-align: center;
+    padding: 10px;
+    margin: 30px 180px;
+}
+
+#marketing p span {
+    font-weight: bold;
+}
+
+#marketing a {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #49b970;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+
+p #recuo {
+    text-align: center;
+    margin: 0px 50px;
+}
+
+
